@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Navbar, Container } from 'react-bootstrap';
 
-const NavbarComponent = () => {
+export default function NavbarComponent() {
     return (
         <>
             <Navbar bg="light">
@@ -12,5 +12,3 @@ const NavbarComponent = () => {
         </>
     );
 }
-
-export { NavbarComponent }

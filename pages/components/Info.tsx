@@ -1,7 +1,7 @@
 import React from 'react';
 import { Alert } from 'react-bootstrap';
 
-const InfoComponent = () => {
+export default function InfoComponent() {
     return (
         <>
             <Alert variant="primary">
@@ -10,5 +10,3 @@ const InfoComponent = () => {
         </>
     );
 }
-
-export { InfoComponent }

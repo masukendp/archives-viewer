@@ -1,6 +1,6 @@
 import Head from 'next/head'
-import { NavbarComponent } from './components/Navbar'
-import { InfoComponent } from './components/Info'
+import NavbarComponent from './components/Navbar'
+import InfoComponent from './components/Info'
 import FileComponent from './components/FileList'
 
 
