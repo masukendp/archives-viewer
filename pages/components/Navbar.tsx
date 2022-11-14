@@ -6,7 +6,7 @@ export default function NavbarComponent() {
         <>
             <Navbar bg="light">
                 <Container>
-                    <Navbar.Brand>マスコミ研究会 アーカイブ</Navbar.Brand>
+                    <Navbar.Brand>マスコミ研究会 頒布物アーカイブ</Navbar.Brand>
                 </Container>
             </Navbar>
         </>

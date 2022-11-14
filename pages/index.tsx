@@ -9,7 +9,7 @@ export default function Home() {
     <div>
       <Head>
         <title>archives-viewer</title>
-        <meta name="description" content="マスコミ研究会 アーカイブ" />
+        <meta name="description" content="マスコミ研究会 頒布物アーカイブ" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
