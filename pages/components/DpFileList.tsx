@@ -22,7 +22,7 @@ export default function DpFileListComponent() {
         <>
             {/* @ts-expect-error Server Component */}
             {data.map(content =>
-                <tr>
+                <tr key={content.sha}>
                     <td><a href={content.download_url}>Dispatch Place vol.{content.name.replace('.pdf', '')}</a></td>
                     <td><code>{content.size}</code> バイト</td>
                 </tr>
