@@ -2,24 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Table } from 'react-bootstrap';
 import DpFileListComponent from './DpFileList'
 
-export default function DpFileComponent() {
-    const [data, setData] = useState(null)
-    const [isLoading, setLoading] = useState(false)
-
-    useEffect(() => {
-        setLoading(true)
-        fetch('https://api.github.com/repos/masukendp/archives/contents/dp')
-            .then((res) => res.json())
-            .then((data) => {
-                setData(data)
-                setLoading(false)
-            })
-    }, [])
-
-
-    if (isLoading) return <div>Loading...</div>
-    if (!data) return <div>LoadingNO...</div>
-
+export default function FileListComponent() {
     return (
         <>
             <Table striped hover>
