@@ -1,5 +1,161 @@
 [
     {
+        "path": "dp/01.pdf",
+        "published_at": "2000/12"
+    },
+    {
+        "path": "dp/02.pdf",
+        "published_at": "2001/4"
+    },
+    {
+        "path": "dp/04.pdf",
+        "published_at": "2001/11"
+    },
+    {
+        "path": "dp/06.pdf",
+        "published_at": "2002 (夏)"
+    },
+    {
+        "path": "dp/07.pdf",
+        "published_at": "2002 (秋)"
+    },
+    {
+        "path": "dp/08.pdf",
+        "published_at": "不明"
+    },
+    {
+        "path": "dp/10.pdf",
+        "published_at": "不明"
+    },
+    {
+        "path": "dp/11.pdf",
+        "published_at": "不明; 恐らく 2005 (冬)"
+    },
+    {
+        "path": "dp/12.pdf",
+        "published_at": "不明; 恐らく 2006 (春)"
+    },
+    {
+        "path": "dp/13.pdf",
+        "published_at": "不明; 恐らく 2006 (冬), vol.12 は 5 ヶ月前"
+    },
+    {
+        "path": "dp/14.pdf",
+        "published_at": "不明; 恐らく 2007 (春)"
+    },
+    {
+        "path": "dp/15.pdf",
+        "published_at": "不明; 恐らく 2007 (冬)"
+    },
+    {
+        "path": "dp/16.pdf",
+        "published_at": "不明; 恐らく 2008 (春)"
+    },
+    {
+        "path": "dp/18.pdf",
+        "published_at": "2009/4/9"
+    },
+    {
+        "path": "dp/19.pdf",
+        "published_at": "2009 (冬)"
+    },
+    {
+        "path": "dp/20.pdf",
+        "published_at": "2010/4/7"
+    },
+    {
+        "path": "dp/21.pdf",
+        "published_at": "2010/10/23"
+    },
+    {
+        "path": "dp/22.pdf",
+        "published_at": "2011/4/5"
+    },
+    {
+        "path": "dp/23.pdf",
+        "published_at": "2011/10/29"
+    },
+    {
+        "path": "dp/24.pdf",
+        "published_at": "2012/4/5"
+    },
+    {
+        "path": "dp/25.pdf",
+        "published_at": "2012/10/27"
+    },
+    {
+        "path": "dp/26.pdf",
+        "published_at": "2013/4"
+    },
+    {
+        "path": "dp/27.pdf",
+        "published_at": "記述ミス; 情報提供をお願いします"
+    },
+    {
+        "path": "dp/28.pdf",
+        "published_at": "2014/4"
+    },
+    {
+        "path": "dp/29.pdf",
+        "published_at": "2014/11/1"
+    },
+    {
+        "path": "dp/30.pdf",
+        "published_at": "2015/4/4"
+    },
+    {
+        "path": "dp/31.pdf",
+        "published_at": "2015/10/31"
+    },
+    {
+        "path": "dp/32.pdf",
+        "published_at": "2016/4/6"
+    },
+    {
+        "path": "dp/33.pdf",
+        "published_at": "2016/11/6"
+    },
+    {
+        "path": "dp/34.pdf",
+        "published_at": "2017/4/6"
+    },
+    {
+        "path": "dp/36.pdf",
+        "published_at": "2018/4/5"
+    },
+    {
+        "path": "dp/37.pdf",
+        "published_at": "2018/10/27"
+    },
+    {
+        "path": "dp/38.pdf",
+        "published_at": "2019/4/4"
+    },
+    {
+        "path": "dp/39.pdf",
+        "published_at": "2019/10/26"
+    },
+    {
+        "path": "dp/40.pdf",
+        "published_at": "2020/4/2"
+    },
+    {
+        "path": "dp/41.pdf",
+        "published_at": "2020/11/1"
+    },
+    {
+        "path": "dp/42.pdf",
+        "published_at": "2021/4/2"
+    },
+    {
+        "path": "dp/43.pdf",
+        "published_at": "2021/10/31"
+    },
+    {
+        "path": "dp/44.pdf",
+        "published_at": "2022/4/18"
+    },
+    {
         "path": "dp/45.pdf",
         "published_at": "2022/10/29"
     }
