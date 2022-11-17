@@ -13,8 +13,8 @@ export default function DpFileListComponent() {
 
     useEffect(() => {
         setLoading(true)
-        // fetch('https://api.github.com/repos/masukendp/archives/contents/dp')
-        fetch('gh.json')
+        fetch('https://api.github.com/repos/masukendp/archives/contents/dp')
+            // fetch('gh.json')
             .then((res) => res.json())
             .then((data) => {
                 setData(data)
