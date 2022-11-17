@@ -9,7 +9,7 @@ export default function FileListComponent() {
                 <thead>
                     <tr>
                         <th>項目名</th>
-                        <th>出版日</th>
+                        <th>発行日</th>
                         <th>ファイル サイズ</th>
                     </tr>
                 </thead>
